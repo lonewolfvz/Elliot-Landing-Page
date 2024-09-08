@@ -1,4 +1,4 @@
-# <a href="https://lonewolfvz.github.io/Elliot-Landing-Page/" target="_blank">Simple landing Page</a>
+# <a href="" target="_blank">Simple landing Page</a>
 <p align="justify">Simple Landing Page for Elliot</p>
 
 :star: Star me on GitHub — it helps!
